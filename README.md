@@ -20,7 +20,7 @@
   
 ## Background
 
-It will be of great benefit if in teachings and other transmissions the practitioner will have a more holistic and easy-to-follow experience. In here the objective is to understand two dominant factors relating with the experience, screen size and composition. In the end, possible solutions are suggested.
+It will be of great benefit if in teachings and other transmissions the practitioner will have a holistic and easy-to-follow experience. In here the objective is to understand two dominant factors relating with the experience, screen size and composition. In the end, possible solutions are suggested.
 
 ## Screen size
 
