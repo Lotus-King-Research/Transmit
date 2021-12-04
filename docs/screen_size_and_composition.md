@@ -102,3 +102,7 @@ There are other minor factors, for example structural elements — fine lines an
 ## Future Work
 
 Establish, and document, and make available practitioner experience focused guidelines for online Dharma transmission.
+
+<hr>
+
+2021 | Lotus King Trust
