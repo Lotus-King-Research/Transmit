@@ -4,7 +4,8 @@
     <img width=150px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/1280px-Cc-by-nc-sa_icon.svg.png" alt="License">
   </a>
 </p>
-  
+
+
 ## Background
 
 It will be of great benefit if in teachings and other transmissions the practitioner will have a holistic and easy-to-follow experience. 
