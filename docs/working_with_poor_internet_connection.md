@@ -36,3 +36,7 @@ In most cases, issues arising from poor internet connectivity caused by remote l
 2.5) When a device or an external microphone is placed too far from the Lama, it results in "dissapearing voice" effect where it seems that the Lama's speech is fading away, as well as other audio quality problems. These can be easily confused as internet connectivity problems, when in fact they are caused by microphone placement or other factors related with the microphone. Typically audio quality problems will start manifesting when the microphone is placed one meter away, or further. But it can happen even when the microphone is placed nearer, particularly on laptops and other devices which are optimized towards the user of the device to use external audio peripherals such as a headset.
 
 2.6) Screensharing requires much more from the internet connection than audio does, and almost as much as video. If screensharing is handled from a different location, it will not consume any bandwidth from the location with poor connection. 
+
+<hr>
+
+2021 | [Lotus King Trust](https://lotuskingtrust.org)
