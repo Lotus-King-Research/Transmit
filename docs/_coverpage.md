@@ -5,6 +5,6 @@
 > Guidelines for Online Dharma Transmission
 
 [GitHub](https://github.com/Lotus-King-Research/Transmit)
-[Lotus King Trust](README.md)
+[Getting Strarted](README.md)
 
 ![color](#f0f0f0)
