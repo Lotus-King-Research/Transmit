@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Lotus-King-Research/Home/main/Assets/Images/Lotus-King-Research-Logo-Transparent.png)
+![logo](_media/Lotus-King-Research-Logo-Icon-Medium.png)
 
 ## v0.1
 
