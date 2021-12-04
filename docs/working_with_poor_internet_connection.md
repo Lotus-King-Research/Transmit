@@ -13,7 +13,7 @@
   </a>
 </p>
 
-# Working with Poor Internet Connection
+# Streaming with Poor Internet Connection
 
 In most cases, issues arising from poor internet connectivity caused by remote location or other factors, can be mitigated pre-emptively. When internet connectivity issues arise before or during an online event, the key is to simplify the streaming setup as much as possible. The result of such simplification is two-fold; less internet bandwidth is required to achieve the same quality of audio and video, and there are less likely to be interruptions. Below, simple instructions are provided for achieving this. 
 
