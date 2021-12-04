@@ -6,7 +6,7 @@
 </p>
 
 
-## Background
+# Background
 
 It will be of great benefit if in teachings and other transmissions the practitioner will have a holistic and easy-to-follow experience. 
 
