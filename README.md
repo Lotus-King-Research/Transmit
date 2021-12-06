@@ -21,3 +21,7 @@
 ## Background
 
 It will be of great benefit if in teachings and other transmissions the practitioner will have a holistic and easy-to-follow experience. 
+
+## 
+ 
+View the documentation [online](https://lotus-king-research.github.io/Transmit/#/).
