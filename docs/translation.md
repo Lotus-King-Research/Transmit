@@ -47,7 +47,7 @@ Let's say there is English translation in the physical space. Failing to follow 
 
 ## Communication Between Translators
 
-There should be an alternative communication channel available for translators. Such as Discord or Slack.
+There should be an alternative communication channel available for translators. Something that is not creating additional distraction (e.g. Whatsapp) and is straightforward to follow (e.g. Discord or Slack).
 
 
 <hr>
