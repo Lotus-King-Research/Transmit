@@ -45,6 +45,9 @@ Second, the case where one translator in the same physical space with the Lama, 
 
 Let's say there is English translation in the physical space. Failing to follow these points will result in all other translation audio channels having English audible on them as well.
 
+## Communication Between Translators
+
+There should be an alternative communication channel available for translators. Such as Discord or Slack.
 
 
 <hr>
