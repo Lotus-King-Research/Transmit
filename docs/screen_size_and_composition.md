@@ -6,7 +6,7 @@
 </p>
 
 
-## Screen Size and Composition
+# Screen Size and Composition
 
 In here the objective is to understand two dominant factors relating with the experience, screen size and composition. In the end, possible solutions are suggested.
 
