@@ -6,11 +6,11 @@
 </p>
 
 
-# Screen Size and Composition
+# Lorem
 
 Lorem
 
-## Screen size
+## Lorem
 
 Lorem
 
