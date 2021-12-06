@@ -1,3 +1,7 @@
+- Basics
+
+  - [Translation](translation.md)
+
 - Advanced
 
   - [Screen and Composition](screen_size_and_composition.md)
