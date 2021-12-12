@@ -1,5 +1,10 @@
 - Basics
 
+  - [Registration](TBA.md)
+  - [Invitation](TBA.md)
+  - [Joining](TBA.md)
+  - [Audio](audio.md)
+  - [Video](TBA.md)
   - [Translation](translation.md)
 
 - Advanced
