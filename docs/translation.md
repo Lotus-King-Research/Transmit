@@ -10,6 +10,21 @@
 
 Given that most teachings are given in Tibetan, and most people do not understand Tibetan, translation plays a central role in the experience people have in an online event.
 
+# Experiental Objective
+
+For the most part, the purpose of the Dharma teaching is to remove confusion and doubt, and increase confidence in the Three Jewels. This is the way in which Lamas give teachings. It is of the utmost importance to avoid the translation aspect changing this. 
+
+Generally speaking, there are two ways in which oral translation takes place. One is where the translator behaves as if being the representative of the Lama with the purpose of trasmitting the Lama's words as directly and clearly as possible to the audience. The other is where the translator behaves as if being the representative of the audience, with the purpose of conveying the meaning of the Lama's words. While the former approach is correct, the one where translator simply focus on transmitting the Lama's words as directly and clearly as possible, the latter approach is not appropriate for Dharma teachings.
+
+## Five Key Principles
+
+- The translator should transmit all Lama's words, without adding any, and without taking any away
+- The translator should speak strictly in first person as if the Lama was speaking himself
+- The translator should not react to Lama's words, but simply register it
+- The translator should only ask questions in the case it's not possible to transmit the Lama's words
+- The translator should ask questions and clarifications only once the Lama has finished speaking
+
+Failing to follow these principles lead to many issues from the perspective of the audience, most importantly the issue of not knowing where the words of the Lama end and the translator's start. Instead of removing doubts and building confidence, this will have a reverse effect. Moreover, not following these principles are detrimental to the translator themselves; it is a sure way to never learn to appropriately perform oral translation.
 
 ## Two Approaches to Translation
 
