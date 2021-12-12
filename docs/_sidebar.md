@@ -9,8 +9,11 @@
 
 - Advanced
 
+  - [Online Platforms](TBA.md)
   - [Screen and Composition](screen_size_and_composition.md)
-
+  - [In-Event Communication](TBA.md)
+  - [Planning Online Programs](TBA.md)
+  - [Promotion](TBA.md)
 
 - Troubleshooting
 
