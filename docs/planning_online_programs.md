@@ -80,11 +80,11 @@ The first consideration should be on feasibility; is it possible to sustain the 
 - How many hours in total it will require to manage each week?
 - Can some parts of the program be done without Lama? 
 
-[]
+<img width="450px" src="_media/weekly_calendar_example.png">
 
 In this example schedule we are applying the 6 Types of Interest on Dharma Center Activity. As the below table clearly shows, with such a simple schedule of less than 10 hours of activity per week, spread across 4 separate days, we are effectively covering the needs of each target segment.  
 
-[]
+<img width="450px" src="_media/weekly_schedule_example.png">
 
 A matrix/table such as this could be used to make sure that the weekly / monthly program is sufficiently addressing the needs of the segments that are being targeted. Depending on the objectives of the activity, the segments and emphasis on each segment could greatly vary. 
 
